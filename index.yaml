@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-06-03T12:48:23.501974241Z"
+    description: A simple web app chart
+    digest: 3bbe113b0dffd53cbcfbf935fc48b7245ab96f78f53276f5040fd449e527e26f
+    name: mychart
+    type: application
+    urls:
+    - https://abumoooo.github.io/CKAAD/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-06-03T12:48:23.501670061Z"
